@@ -1,5 +1,3 @@
-# Sintonis
-
 **Sintonis** is an open-source operating system optimized for touch screens, designed for Raspberry Pi and other micro-computers. It offers various features, such as music, radio, alarms, clocks, timers, and weather updates, all within a single, user-friendly interface. Pronounced "Sin-toh-nees," Sintonis provides a seamless and integrated experience.
 
 ## Features
