@@ -22,4 +22,4 @@ We welcome contributions from the community. Please read our [Contributing Guide
 
 ## License
 
-Sintonis is released under the [MIT License](https://github.com/Sintonis/docs/LICENSE).
+Sintonis is released under the [MIT License](https://github.com/sintonis/docs/blob/main/LICENSE).
