@@ -30,7 +30,3 @@ To get started with Sintonis, clone the repositories and follow the setup instru
 ## Contributing
 
 We welcome contributions from the community. Please read our [Contributing Guide](https://github.com/Sintonis/docs/CONTRIBUTING.md) to learn how you can help improve Sintonis.
-
-## License
-
-Sintonis is released under the [MIT License](https://github.com/sintonis/docs/blob/main/LICENSE).
